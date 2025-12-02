@@ -1,0 +1,40 @@
+.parent{
+    display: flex;
+    padding:20px;
+    height:50px;
+    border-radius:18px;
+    background-color:black;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.A img{
+color:white;
+height:40px;
+width:40px;
+
+}
+.B{
+display: flex;
+gap:35px;
+}
+.B div{
+    color:white;
+    padding-top: 15px;
+    font-size:20px;
+}
+.C {
+    display:flex;
+    align-items:center;
+    color:white;
+     gap:20px;
+}
+.C button{
+    border-radius:6px;
+    color:black;
+    padding:7px;
+    border:none;
+    background-color:whitesmoke;
+}
+#diff button{
+    background-color:#ebc934;
+}

@@ -34,7 +34,8 @@
 
         FLEX BOX
 
-
+        TASK2:NAVIGATION BAR
+        TASK3:LOGIN PAGE USING TAILWIND CSS
 
         
 
