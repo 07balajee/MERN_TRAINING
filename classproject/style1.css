@@ -1,0 +1,54 @@
+.ParentA{
+    background-color:red;
+    display:flex;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: 1000px;
+}
+.A{
+    background-color:yellow;
+    padding:5px;
+    border: 1px solid black;
+}
+.ParentB{
+    background-color:blue;
+    display:flex;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-right: 1000px;
+
+}
+.B{
+    background-color:green;
+    padding:5px;
+    border: 1px solid black;
+}
+.ParentC{
+    padding:100px;
+    background-color: pink;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    align-items: flex-end;
+}
+.C{
+    background-color: purple;
+    padding:100px;
+    border: 1px solid black;
+}
+.long{
+    background-color: orange;
+    padding:100px;
+    height:300px;
+    border: 1px solid black;
+}
