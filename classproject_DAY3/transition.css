@@ -1,0 +1,37 @@
+div button {
+    color:black;
+    background-color: orange;
+    transition: background 3s, color 3s;
+    border:none;
+    border-radius:5px;
+    height:200px;
+    width:150px;
+    padding:10px;
+    animation: beat 0.6s infinite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div button:hover{
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:orange;
+    
+}
+@keyframes bounce{
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+}
+@keyframes beat{
+    0%, 100% {
+        transform: scale(0.5);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}

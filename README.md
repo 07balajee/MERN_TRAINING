@@ -37,7 +37,15 @@
         TASK2:NAVIGATION BAR
         TASK3:LOGIN PAGE USING TAILWIND CSS
 
-        
+## DAY3 ##
+         
+         TASK1: FLEXBOX FROGGY
+
+         TRANSITION
+
+         ANIMATION
+
+         RESPONSIVE
 
 
 
