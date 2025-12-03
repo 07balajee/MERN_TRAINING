@@ -47,5 +47,13 @@
 
          RESPONSIVE
 
+         JAVA SCRIPT
+           ->INTRODUCTION
+           ->VARIABLES
+           ->FUNCTIONS AND IT'S TYPES
+           ->LOOPS
+           ->ARRAY AND IT'S METHODS
+           ->
+
 
 
