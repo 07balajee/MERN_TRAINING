@@ -69,6 +69,8 @@
 
            TASK1:COUNTER
 
+           TASK2:QUIZ
+
            FORM (USERNAME AND PASSWORD VALIDATION)
 
            HOISTING
