@@ -55,5 +55,20 @@
            ->ARRAY AND IT'S METHODS
            ->
 
+## DAY4 ##
 
+           JAVA SCRIPT
+            -> FILTER
+            -> STRINGS AND METHODS
+            ->OBJECTS
+            ->ARRAY OF OBJECTS
+            ->SPREAD OPERATOR
+            ->VARIABLE ASSIGNMENT AND DECLARATION (VAR,LET,CONST)
 
+           DOM MANIPULATION[GET METHODS]
+
+           TASK1:COUNTER
+
+           FORM (USERNAME AND PASSWORD VALIDATION)
+
+           HOISTING
