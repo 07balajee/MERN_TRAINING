@@ -53,7 +53,7 @@
            ->FUNCTIONS AND IT'S TYPES
            ->LOOPS
            ->ARRAY AND IT'S METHODS
-           ->
+           ->TASK 3: IMAGE CRACK USING TailwindCSS
 
 ## DAY4 ##
 
