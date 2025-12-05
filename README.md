@@ -77,6 +77,8 @@
 
           ES6 MODULES(IMPORT,EXPORT)
 
+          REST OPERATOR
+
           DESTRUCTION
 
           PROMISE:
@@ -85,7 +87,7 @@
 
           PROMISE TO CHECK WITH FUNCTION AND VARIABLES
 
-          PROMISE CHAINING 
+          PROMISE CHAINING
 
           ASYNC AWAIT
 
