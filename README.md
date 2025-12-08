@@ -94,3 +94,45 @@
            ASYNC AWAIT
 
            FETCH API
+
+
+## DAY 6 ##
+
+
+           NODE.JS
+
+           NPM
+
+           NPM CREATE vite@latest
+
+           package.json
+
+           CREATING A COMPONENT
+
+           useState()
+
+           JSX
+             -><React.Fragmant></React.Fragmant>
+             -><> </>
+
+
+           Props(Object)
+
+
+           Component invocation  
+           {Component()}
+           <Component/>
+           <Component></Component>
+
+           NORMAL VARIABLE VS STATE VARIABLE
+
+           RECONCILATION (DIFFIN ALGORITHM)
+
+           useEffect()
+                 ->empyt dependency array
+                 ->non empty dependency array
+                 ->no dependency array
+
+            implementing  components with Parent     
+
+
