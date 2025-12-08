@@ -69,26 +69,28 @@
 
            TASK1:COUNTER
 
+           TASK2:QUIZ
+
            FORM (USERNAME AND PASSWORD VALIDATION)
 
            HOISTING
 
 ##  DAY5 ##
 
-          ES6 MODULES(IMPORT,EXPORT)
+           ES6 MODULES(IMPORT,EXPORT)
 
-          REST OPERATOR
+           REST OPERATOR
 
-          DESTRUCTION
+           DESTRUCTION
 
-          PROMISE:
-           ->FULLFILLED
-           ->REJECTED
+           PROMISE:
+            ->FULLFILLED
+            ->REJECTED
 
-          PROMISE TO CHECK WITH FUNCTION AND VARIABLES
+           PROMISE TO CHECK WITH FUNCTION AND VARIABLES
 
-          PROMISE CHAINING
+           PROMISE CHAINING
 
-          ASYNC AWAIT
+           ASYNC AWAIT
 
-          FETCH API
+           FETCH API
