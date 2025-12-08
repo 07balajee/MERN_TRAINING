@@ -112,7 +112,7 @@
            useState()
 
            JSX
-             -><React.Fragmant></React.Fragmant>
+             -><React.Fragment></React.Fragment>
              -><> </>
 
 
