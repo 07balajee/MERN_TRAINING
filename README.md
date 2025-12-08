@@ -74,4 +74,23 @@
            FORM (USERNAME AND PASSWORD VALIDATION)
 
            HOISTING
- 
+
+##  DAY5 ##
+
+           ES6 MODULES(IMPORT,EXPORT)
+
+           REST OPERATOR
+
+           DESTRUCTION
+
+           PROMISE:
+            ->FULLFILLED
+            ->REJECTED
+
+           PROMISE TO CHECK WITH FUNCTION AND VARIABLES
+
+           PROMISE CHAINING
+
+           ASYNC AWAIT
+
+           FETCH API
