@@ -136,3 +136,15 @@
             implementing  components with Parent     
 
 
+## DAY 7 ##
+
+          LOCAL AND SESSION STORAGE
+
+
+          PROPS DRILLING
+
+          REACT CONTEXT API
+
+          CONTOLLED COMPONENT AND UNCONTROLLED COMPONENT
+
+          adding product to ecommerce via form in UI by REACT component and REACT APP
