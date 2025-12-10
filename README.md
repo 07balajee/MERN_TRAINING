@@ -148,3 +148,18 @@
           CONTOLLED COMPONENT AND UNCONTROLLED COMPONENT
 
           adding product to ecommerce via form in UI by REACT component and REACT APP
+
+
+## DAY 8 ##
+
+          ROUTING
+
+          BROWSER ROUTE, ROUTES,ROUTE
+
+          LAYOUT ROUTE
+
+          NESTED ROUTE
+                  ->NESTED ROUTING
+
+
+          PROTECTED ROUTING        
