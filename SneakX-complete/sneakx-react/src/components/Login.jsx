@@ -1,4 +1,4 @@
-import {useNavigate} from 'react-router';
+import {useNavigate} from 'react-router-dom';
 import {useState,useRef} from 'react';
 import coverpage from '../assets/coverpage.png';
 import { toast } from 'react-toastify';

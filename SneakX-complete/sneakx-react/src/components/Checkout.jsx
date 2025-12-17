@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router';
-import { useOutletContext } from 'react-router';
+import { useNavigate } from 'react-router-dom';
+import { useOutletContext } from 'react-router-dom';
 
 const Checkout = ({ isOpen, onClose }) => {
     const navigate = useNavigate();

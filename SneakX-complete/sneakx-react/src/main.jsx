@@ -1,6 +1,6 @@
 
 import { createRoot } from 'react-dom/client'
-import {BrowserRouter,Routes,Route} from 'react-router'
+import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import './index.css'
 import {ToastContainer} from 'react-toastify';
 

@@ -1,4 +1,4 @@
-import { useOutletContext } from 'react-router';
+import { useOutletContext } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import ProductForm from './ProductForm.jsx';
 import CardList from './CardList.jsx';

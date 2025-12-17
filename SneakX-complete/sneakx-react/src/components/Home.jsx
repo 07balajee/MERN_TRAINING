@@ -14,8 +14,8 @@ import NewBalanceLogo from '../assets/Logos/NewBalanceLogo.png';
 import ConverseLogo from '../assets/Logos/ConverseLogo.png';
 
 import rdSlide from '../assets/3rdSlide.jpg';
-import { useOutletContext } from 'react-router';
-import { useNavigate } from 'react-router';
+import { useOutletContext } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
     const { addToCart } = useOutletContext();

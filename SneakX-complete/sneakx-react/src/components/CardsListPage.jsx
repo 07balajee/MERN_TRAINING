@@ -1,4 +1,4 @@
-import { useOutletContext } from 'react-router';
+import { useOutletContext } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import CardListComponent from './CardList.jsx';
 import { toast } from 'react-toastify';

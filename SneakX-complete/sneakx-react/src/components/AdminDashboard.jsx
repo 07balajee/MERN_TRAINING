@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useOutletContext } from 'react-router';
+import { useOutletContext } from 'react-router-dom';
 import { allProducts } from '../data/ProductsData';
 
 const AdminDashboard = () => {
